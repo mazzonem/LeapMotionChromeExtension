@@ -10,6 +10,9 @@ Use
 =========================
 Add leap.min.js and enjoy :)
 
+Installation
+http://developer.chrome.com/extensions/getstarted.html#unpacked
+
 
 Actions
 =========================
