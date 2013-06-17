@@ -6,6 +6,9 @@ Leap Motion Chrome Extension - Multi OS
 Vidéo Alpha : http://www.youtube.com/watch?v=yx0zyVtGEMQ
 
 
+Use
+=========================
+Add leap.min.js and enjoy :)
 
 
 Actions
